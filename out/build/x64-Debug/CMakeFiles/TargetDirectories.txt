@@ -1,0 +1,17 @@
+C:/Users/krisd/Documents/Programming/cpp/ggpo_steam/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/Users/krisd/Documents/Programming/cpp/ggpo_steam/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/krisd/Documents/Programming/cpp/ggpo_steam/out/build/x64-Debug/CMakeFiles/list_install_components.dir
+C:/Users/krisd/Documents/Programming/cpp/ggpo_steam/out/build/x64-Debug/CMakeFiles/install.dir
+C:/Users/krisd/Documents/Programming/cpp/ggpo_steam/out/build/x64-Debug/CMakeFiles/install/local.dir
+C:/Users/krisd/Documents/Programming/cpp/ggpo_steam/out/build/x64-Debug/src/CMakeFiles/GGPO.dir
+C:/Users/krisd/Documents/Programming/cpp/ggpo_steam/out/build/x64-Debug/src/CMakeFiles/edit_cache.dir
+C:/Users/krisd/Documents/Programming/cpp/ggpo_steam/out/build/x64-Debug/src/CMakeFiles/rebuild_cache.dir
+C:/Users/krisd/Documents/Programming/cpp/ggpo_steam/out/build/x64-Debug/src/CMakeFiles/list_install_components.dir
+C:/Users/krisd/Documents/Programming/cpp/ggpo_steam/out/build/x64-Debug/src/CMakeFiles/install.dir
+C:/Users/krisd/Documents/Programming/cpp/ggpo_steam/out/build/x64-Debug/src/CMakeFiles/install/local.dir
+C:/Users/krisd/Documents/Programming/cpp/ggpo_steam/out/build/x64-Debug/src/apps/vectorwar/CMakeFiles/VectorWar.dir
+C:/Users/krisd/Documents/Programming/cpp/ggpo_steam/out/build/x64-Debug/src/apps/vectorwar/CMakeFiles/edit_cache.dir
+C:/Users/krisd/Documents/Programming/cpp/ggpo_steam/out/build/x64-Debug/src/apps/vectorwar/CMakeFiles/rebuild_cache.dir
+C:/Users/krisd/Documents/Programming/cpp/ggpo_steam/out/build/x64-Debug/src/apps/vectorwar/CMakeFiles/list_install_components.dir
+C:/Users/krisd/Documents/Programming/cpp/ggpo_steam/out/build/x64-Debug/src/apps/vectorwar/CMakeFiles/install.dir
+C:/Users/krisd/Documents/Programming/cpp/ggpo_steam/out/build/x64-Debug/src/apps/vectorwar/CMakeFiles/install/local.dir
